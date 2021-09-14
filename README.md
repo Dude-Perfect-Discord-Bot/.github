@@ -1,1 +1,1 @@
-# .github
+> README profile for this organisation!
